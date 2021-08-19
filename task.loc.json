@@ -15,14 +15,12 @@
   ],
   "author": "Microsoft Corporation",
   "version": {
-    "Major": 2,
-    "Minor": 191,
+    "Major": 3,
+    "Minor": 192,
     "Patch": 0
   },
   "releaseNotes": "ms-resource:loc.releaseNotes",
-  "demands": [
-    "java"
-  ],
+  "demands": [],
   "minimumAgentVersion": "1.91.0",
   "groups": [
     {
